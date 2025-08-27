@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 # file_handling
+=======
+# file-handling
+This is a file handling asignment project in python using the following instructions; File Read &amp; Write Challenge : Create a program that reads a file and writes a modified version to a new file. Error Handling Lab : Ask the user for a filename and handle errors if it doesn’t exist or can’t be read.
+>>>>>>> 0126f00059e98222ee4f7ce30e012bf0d4336876
